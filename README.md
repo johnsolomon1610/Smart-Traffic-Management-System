@@ -26,9 +26,9 @@ By the analysis of all the lane vehicle,the STMS algorithm reduce the delay time
 These system analysis the density of the lane vehicle for some duration and automatically updating the delay time of the signal that means the traffic congestion high on particular lane that have short delay time in the traffic signal.
 
 <p>&nbsp;</p>
-![Picture1](https://user-images.githubusercontent.com/55402034/136351462-c2740f12-0954-47a0-ad9d-9f2820c64a90.png)
+ <img src="https://user-images.githubusercontent.com/55402034/136351795-59b26682-a04c-47ee-afcd-aa6d5f345f47.png" width="700" />
 <p>&nbsp;</p>
-![image](https://user-images.githubusercontent.com/55402034/136351061-84e139ec-b376-45a1-bf37-94104104fa0a.png)
+<img src="https://user-images.githubusercontent.com/55402034/136352003-3fa24542-79e6-4cb1-b04d-e1edca1681d5.png" width="700" />
 <p>&nbsp;</p>
-![image](https://user-images.githubusercontent.com/55402034/136351120-d1c97e04-b0bc-4cd7-bcc4-269d76a920df.png)
+<img src="https://user-images.githubusercontent.com/55402034/136352083-75a757be-186a-4a62-ad4d-d9849c585d29.png" width="700" />
 <p>&nbsp;</p>
